@@ -1,0 +1,9 @@
+src
+type
+async
+defer
+nomodule
+crossorigin
+integrity
+referrerpolicy
+fetchpriority
