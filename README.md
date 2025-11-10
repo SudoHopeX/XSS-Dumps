@@ -16,6 +16,7 @@ This repository currently contains two essential wordlists for crafting XSS payl
 | :--- | :--- | :--- |
 | **`html-tags.txt`** | A comprehensive list of almost all standard and common **HTML tags**. | Testing which tags (e.g., `<script>`, `<img>`, `<svg>`) are allowed or blocked by an application's input sanitization filters. |
 | **`html-event-handlers.txt`** | A list of virtually all possible **HTML event handlers**. | Crucial for discovering event-based XSS vectors (e.g., `onload`, `onerror`, `onfocus`) after a tag has been successfully injected. |
+| **`html-attributes/`** | Collection of html attributes | miscellaneous... |
 
 
 ## 💡 Usage
