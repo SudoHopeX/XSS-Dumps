@@ -1,0 +1,11 @@
+src
+srcdoc
+name
+width
+height
+allow
+allowfullscreen
+loading
+referrerpolicy
+sandbox
+fetchpriority
