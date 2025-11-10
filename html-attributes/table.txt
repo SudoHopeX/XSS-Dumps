@@ -1,0 +1,10 @@
+colspan
+rowspan
+headers
+scope
+abbr
+align
+valign
+border
+cellpadding
+cellspacing
