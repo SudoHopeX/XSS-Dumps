@@ -1,0 +1,15 @@
+href
+hreflang
+rel
+media
+crossorigin
+integrity
+referrerpolicy
+sizes
+target
+type
+as
+blocking
+imagesizes
+imagesrcset
+disabled
