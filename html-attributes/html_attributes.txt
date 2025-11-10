@@ -1,0 +1,71 @@
+Global: 
+accesskey
+autocapitalize
+autofocus
+class
+contenteditable
+dir
+draggable
+enterkeyhint
+exportparts
+hidden
+id
+inert
+inputmode
+is
+itemid
+itemprop
+itemref
+itemscope
+itemtype
+lang
+nonce
+part
+popovertarget
+popovertargetaction
+popover
+slot
+spellcheck
+style
+tabindex
+title
+translate
+
+ARIA: aria-activedescendant, aria-atomic, aria-autocomplete, aria-busy,
+aria-checked, aria-colcount, aria-colindex, aria-colspan, aria-controls,
+aria-current, aria-describedby, aria-description, aria-details,
+aria-disabled, aria-dropeffect, aria-errormessage, aria-expanded,
+aria-flowto, aria-grabbed, aria-haspopup, aria-hidden, aria-invalid,
+aria-keyshortcuts, aria-label, aria-labelledby, aria-level, aria-live,
+aria-modal, aria-multiline, aria-multiselectable, aria-orientation,
+aria-owns, aria-placeholder, aria-posinset, aria-pressed, aria-readonly,
+aria-relevant, aria-required, aria-roledescription, aria-rowcount,
+aria-rowindex, aria-rowspan, aria-selected, aria-setsize, aria-sort,
+aria-valuemax, aria-valuemin, aria-valuenow, aria-valuetext
+
+Form & Input: accept, autocomplete, capture, checked, dirname, disabled,
+form, formaction, formenctype, formmethod, formnovalidate, formtarget,
+height, list, max, maxlength, min, minlength, multiple, name, pattern,
+placeholder, readonly, required, size, src, step, type, value, width
+
+Link & Resource: href, hreflang, rel, media, crossorigin, integrity,
+referrerpolicy, sizes, target, type, as, blocking, imagesizes,
+imagesrcset, disabled
+
+Image & Media: src, srcset, sizes, alt, width, height, decoding,
+loading, usemap, ismap, loop, muted, controls, preload, poster, autoplay
+
+Table: colspan, rowspan, headers, scope, abbr, align, valign, border,
+cellpadding, cellspacing
+
+Iframe & Embedding: src, srcdoc, name, width, height, allow,
+allowfullscreen, loading, referrerpolicy, sandbox, fetchpriority
+
+Semantic: cite, datetime, value, start, reversed
+
+Script: src, type, async, defer, nomodule, crossorigin, integrity,
+referrerpolicy, fetchpriority
+
+Misc: charset, content, http-equiv, name, alt, coords, shape, label,
+default, open, max, low, high, optimum, reversed, start, type, datetime,
+title, for, form, background, name
