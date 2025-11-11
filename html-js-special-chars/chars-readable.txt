@@ -1,0 +1,78 @@
+HTML & JS special characters and punctuation (common):
+<  (less-than)
+>  (greater-than)
+&  (ampersand)
+"  (double quote)
+'  (single quote / apostrophe)
+`  (backtick / grave)
+/  (forward slash)
+\  (backslash)
+:  (colon)
+;  (semicolon)
+,  (comma)
+.  (dot / period)
+?  (question mark)
+!  (exclamation)
+@  (at sign)
+#  (hash / pound)
+$  (dollar)
+%  (percent)
+^  (caret)
+*  (asterisk)
++  (plus)
+-  (hyphen / minus)
+=  (equals)
+|  (vertical bar / pipe)
+~  (tilde)
+_  (underscore)
+
+Grouping / bracket characters:
+(  (left parenthesis)
+)  (right parenthesis)
+[  (left square bracket)
+]  (right square bracket)
+{  (left curly brace)
+}  (right curly brace)
+
+Whitespace & control:
+␣  (space)
+\t  (tab)
+\n  (newline / line feed)
+\r  (carriage return)
+
+HTML-specific tokens:
+<!  (bang / doctype/comment start)
+<!--  (HTML comment start)
+-->   (HTML comment end)
+<![CDATA[  (CDATA start, XML/HTML contexts)
+]]>       (CDATA end)
+
+URL / encoding related:
+%  (percent — used in percent-encoding / URL-encoding)
++  (plus — sometimes space in form encoding)
+
+Entity & template markers:
+&name;    (HTML entity pattern, e.g., &amp;)
+${...}    (template literal interpolation in JS)
+<!-- -->  (HTML comments)
+
+Other JS-relevant tokens (operators / syntax pieces):
+=>   (arrow function)
+...  (spread / rest)
+??   (nullish coalescing)
+&&   (logical AND)
+||   (logical OR)
+===  (strict equality)
+!==  (strict inequality)
+==   (equality)
+!=   (inequality)
+<< >> >>>  (bitwise shifts)
+&= |= ^= += -= *= /= %= <<= >>=  (compound assignment variants — examples)
+
+Misc / less common but possible in contexts:
+¶  (pilcrow / paragraph symbol — rarely used)
+© ® ™  (copyright/trademark symbols)
+● ◦ •  (bullets)
+" " (various Unicode quotation marks: “ ” ‘ ’)
+
+Note: many characters above have special meaning depending on whether they're used inside HTML text, an attribute value, a JavaScript string, a URL, or a shell/OS command context. Escaping/encoding rules differ per context (HTML entities, JS string escapes, URL-encoding, etc.).
